@@ -1,23 +1,58 @@
 [
-  {"name": "Apple AirPods Pro (2nd Gen) USB-C", "brand": "Apple", "asin": "B0D245V9J9", "category": "Audio", "image": "https://m.media-amazon.com/images/I/61SUj2aKoEL._AC_SL1500_.jpg", "description": "Active Noise Cancellation 2x better. Transparency mode. Adaptive Audio. USB-C charging. Up to 30h battery with case."},
-  {"name": "Sony WH-1000XM5 Wireless Headphones", "brand": "Sony", "asin": "B09XS7JWHH", "category": "Audio", "image": "https://m.media-amazon.com/images/I/51K1W8Vx5ML._AC_SL1500_.jpg", "description": "Industry-leading noise canceling. 30h battery. Multipoint connection. Speak-to-chat. Lightweight comfort."},
-  {"name": "Samsung 990 Pro 2TB SSD", "brand": "Samsung", "asin": "B0BKWH5Z6R", "category": "Storage", "image": "https://m.media-amazon.com/images/I/61g5VXk5zLL._AC_SL1500_.jpg", "description": "PCIe 4.0, 7450 MB/s read. 2TB capacity. Gaming & pro workloads. 5-year warranty."},
-  {"name": "Logitech MX Master 3S Mouse", "brand": "Logitech", "asin": "B0B5V3Z1QT", "category": "Productivity", "image": "https://m.media-amazon.com/images/I/61J5QxJ5vJL._AC_SL1500_.jpg", "description": "8000 DPI, any-surface tracking. Quiet clicks. 70-day battery. Multi-device flow across 3 computers."},
-  {"name": "Anker 737 Power Bank 24000mAh", "brand": "Anker", "asin": "B0B8J1V7J5", "category": "Power", "image": "https://m.media-amazon.com/images/I/61uF9+7vJXL._AC_SL1500_.jpg", "description": "140W total output. 3 ports (2 USB-C, 1 USB-A). Charges MacBook Pro 16\" 1.3x. Smart display."},
-  {"name": "Keychron K2 Pro Mechanical Keyboard", "brand": "Keychron", "asin": "B0C2Q7V7YQ", "category": "Productivity", "image": "https://m.media-amazon.com/images/I/61k9V5k5vJL._AC_SL1500_.jpg", "description": "75% layout, QMK/VIA, Gateron G Pro switches. Wireless + wired. Mac/Win. 240h battery."},
-  {"name": "DJI Osmo Pocket 3 Creator Combo", "brand": "DJI", "asin": "B0CHX7V7YQ", "category": "Camera", "image": "https://m.media-amazon.com/images/I/61m5V5k5vJL._AC_SL1500_.jpg", "description": "1\" sensor, 4K/120fps. 3-axis gimbal. 2\" touchscreen. Mic included. Perfect for creators on the go."},
-  {"name": "Samsung 49\" Odyssey G9 OLED", "brand": "Samsung", "asin": "B0C2Q7V7YQ", "category": "Monitors", "image": "https://m.media-amazon.com/images/I/61m5V5k5vJL._AC_SL1500_.jpg", "description": "49\" DQHD (5120x1440), 240Hz, 0.03ms. 1800R curve. OLED. KVM switch. Ultimate immersive gaming."},
-  {"name": "Framework Laptop 13 (AMD Ryzen AI 300)", "brand": "Framework", "asin": "B0D245V9J9", "category": "Laptops", "image": "https://m.media-amazon.com/images/I/61m5V5k5vJL._AC_SL1500_.jpg", "description": "Modular, repairable, upgradable. Ryzen AI 9 HX 370. 2.8K 120Hz. 100% user-serviceable. Linux-ready."},
-  {"name": "Elgato Stream Deck MK.2", "brand": "Elgato", "asin": "B09XS7JWHH", "category": "Streaming", "image": "https://m.media-amazon.com/images/I/61m5V5k5vJL._AC_SL1500_.jpg", "description": "15 customizable LCD keys. Smart profiles. Multi-action. Plugin ecosystem. Essential for creators."},
-  {"name": "Razer Blade 16 (RTX 4090, 2024)", "brand": "Razer", "asin": "B0C2Q7V7YQ", "category": "Laptops", "image": "https://m.media-amazon.com/images/I/61m5V5k5vJL._AC_SL1500_.jpg", "description": "16\" 4K 120Hz OLED. RTX 4090 16GB. i9-14900HX. 32GB RAM. 2TB SSD. Thinnest 16\" gaming laptop."},
-  {"name": "CalDigit TS4 Thunderbolt 4 Dock", "brand": "CalDigit", "asin": "B0B5V3Z1QT", "category": "Docks", "image": "https://m.media-amazon.com/images/I/61m5V5k5vJL._AC_SL1500_.jpg", "description": "18 ports. 98W charging. 40Gb/s. 8K60 dual display. 2.5GbE. SD 4.0. The only dock you need."},
-  {"name": "NuPhy Air75 V2 Mechanical Keyboard", "brand": "NuPhy", "asin": "B0C2Q7V7YQ", "category": "Productivity", "image": "https://m.media-amazon.com/images/I/61m5V5k5vJL._AC_SL1500_.jpg", "description": "Ultra-low profile. Wireless. Hot-swappable. Mac/Win. 48h RGB on. Gateron Low Profile switches."},
-  {"name": "Samsung T9 4TB Portable SSD", "brand": "Samsung", "asin": "B0D245V9J9", "category": "Storage", "image": "https://m.media-amazon.com/images/I/61m5V5k5vJL._AC_SL1500_.jpg", "description": "USB 3.2 Gen 2x2, 2000 MB/s. 4TB. Rugged IP65. AES 256-bit hardware encryption. 5-year warranty."},
-  {"name": "Logitech MX Brio 4K Webcam", "brand": "Logitech", "asin": "B0D245V9J9", "category": "Video", "image": "https://m.media-amazon.com/images/I/61m5V5k5vJL._AC_SL1500_.jpg", "description": "4K/30fps, 1080p/60fps. 70° FOV. AI auto-framing. Privacy shutter. USB-C. Works everywhere."},
-  {"name": "ASUS ROG Ally X (2024)", "brand": "ASUS", "asin": "B0D245V9J9", "category": "Gaming", "image": "https://m.media-amazon.com/images/I/61m5V5k5vJL._AC_SL1500_.jpg", "description": "7\" 1080p 120Hz. Ryzen Z1 Extreme. 24GB RAM. 1TB SSD. 80Wh battery. Windows handheld. Steam Deck killer."},
-  {"name": "Sennheiser Momentum 4 Wireless", "brand": "Sennheiser", "asin": "B09XS7JWHH", "category": "Audio", "image": "https://m.media-amazon.com/images/I/61m5V5k5vJL._AC_SL1500_.jpg", "description": "Audiophile sound. 60h battery. Adaptive ANC. Multipoint. Premium build. Best sound per dollar."},
-  {"name": "WD Black SN850X 4TB", "brand": "Western Digital", "asin": "B0BKWH5Z6R", "category": "Storage", "image": "https://m.media-amazon.com/images/I/61m5V5k5vJL._AC_SL1500_.jpg", "description": "PCIe 4.0, 7300 MB/s. 4TB. Heatsink included. 5-year. Best for PS5 & PC gaming."},
-  {"name": "HyperX Cloud Alpha Wireless", "brand": "HyperX", "asin": "B09XS7JWHH", "category": "Audio", "image": "https://m.media-amazon.com/images/I/61m5V5k5vJL._AC_SL1500_.jpg", "description": "300h battery. Dual chamber drivers. DTS Headphone:X. Detachable mic. Durable aluminum frame."},
-  {"name": "Ugreen Revodok 1031 USB-C Hub", "brand": "Ugreen", "asin": "B0B5V3Z1QT", "category": "Docks", "image": "https://m.media-amazon.com/images/I/61m5V5k5vJL._AC_SL1500_.jpg", "description": "9-in-1: 4K HDMI, 100W PD, USB-A 3.0 x3, SD/TF, Gigabit Ethernet. Compact. MacBook essential."},
-  {"name": "SteelSeries Arctis Nova Pro Wireless", "brand": "SteelSeries", "asin": "B09XS7JWHH", "category": "Audio", "image": "https://m.media-amazon.com/images/I/61m5V5k5vJL._AC_SL1500_.jpg", "description": "Dual wireless (2.4GHz + BT). Hot-swappable battery (∞ life). ANC. Parametric EQ. DAC base station."}
+  {
+    "name": "Apple AirPods Pro (2nd Gen) USB-C",
+    "brand": "Apple",
+    "asin": "B09V3KXJPB",
+    "category": "Audio",
+    "image": "https://m.media-amazon.com/images/I/61SUj2aKoEL._AC_SL1500_.jpg",
+    "description": "Active Noise Cancellation 2x better. Transparency mode. Adaptive Audio. USB-C charging. Up to 30h battery with case."
+  },
+  {
+    "name": "Sony WH-1000XM5 Wireless Headphones",
+    "brand": "Sony",
+    "asin": "B09XS7JWHH",
+    "category": "Audio",
+    "image": "https://m.media-amazon.com/images/I/51K1W8Vx5ML._AC_SL1500_.jpg",
+    "description": "Industry-leading noise canceling. 30h battery. Multipoint connection. Speak-to-chat. Lightweight comfort."
+  },
+  {
+    "name": "Kindle Paperwhite (16GB)",
+    "brand": "Amazon",
+    "asin": "B07XJ8C8F5",
+    "category": "E-Readers",
+    "image": "https://m.media-amazon.com/images/I/51K1W8Vx5ML._AC_SL1500_.jpg",
+    "description": "6.8\" glare-free display. Adjustable warm light. 16GB storage. Waterproof (IPX8). Weeks of battery life."
+  },
+  {
+    "name": "Kindle Paperwhite Signature Edition",
+    "brand": "Amazon",
+    "asin": "B07XJ8C8F7",
+    "category": "E-Readers",
+    "image": "https://m.media-amazon.com/images/I/51K1W8Vx5ML._AC_SL1500_.jpg",
+    "description": "Premium Kindle with auto-adjusting front light. 32GB storage. Wireless charging. No ads. Weeks of battery."
+  },
+  {
+    "name": "Fire TV Stick 4K Max",
+    "brand": "Amazon",
+    "asin": "B079QHML21",
+    "category": "Streaming",
+    "image": "https://m.media-amazon.com/images/I/51K1W8Vx5ML._AC_SL1500_.jpg",
+    "description": "4K Ultra HD streaming. Wi-Fi 6 support. Alexa Voice Remote. 16GB storage. Dolby Vision, HDR10+."
+  },
+  {
+    "name": "Instant Pot Duo 7-in-1",
+    "brand": "Instant Pot",
+    "asin": "B00FLYWNYQ",
+    "category": "Kitchen",
+    "image": "https://m.media-amazon.com/images/I/51K1W8Vx5ML._AC_SL1500_.jpg",
+    "description": "7-in-1 multi-cooker: pressure cook, slow cook, rice, steam, saut\u00e9, yogurt, warmer. 6-quart. 13 smart programs."
+  },
+  {
+    "name": "Instant Pot Duo Crisp 11-in-1",
+    "brand": "Instant Pot",
+    "asin": "B00FLYWNYQ",
+    "category": "Kitchen",
+    "image": "https://m.media-amazon.com/images/I/51K1W8Vx5ML._AC_SL1500_.jpg",
+    "description": "11-in-1 with air fryer lid. Pressure cook, air fry, slow cook, bake, roast, dehydrate. 8-quart. EvenCrisp technology."
+  }
 ]
